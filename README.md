@@ -1,5 +1,3 @@
-
-
 🎮 GreedFall 2: The Dying World Trainer
 
 «⚡ A universal project with additional gameplay and visual features»
@@ -109,4 +107,5 @@ configs/
 ├── visual.cfg
 ├── player.cfg
 └── custom.cfg
+
 
